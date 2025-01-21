@@ -183,4 +183,4 @@ Clean up resources
 
 ### References
 ---
-- [[Bacon ipsum dolor](https://#)](https://learn.microsoft.com/en-us/training/modules/work-form-recognizer/8-exercise-extract-data-from-custom-forms)
+- [Exercise - Extract data from custom forms](https://learn.microsoft.com/en-us/training/modules/work-form-recognizer/8-exercise-extract-data-from-custom-forms)
