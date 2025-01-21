@@ -57,7 +57,7 @@ To use the Azure AI Document Intelligence service, you need a Azure AI Document 
 - When the deployment is complete, select Go to resource to view the resource's Overview page.
 
 
-Gather documents for training
+Gather documents for training  
 You'll use the sample forms such as this one to train a test a model
 
 - Return to Visual Studio Code. In the Explorer pane, open the Labfiles/02-custom-document-intelligence folder and expand the sample-forms folder. Notice there are files ending in .json and .jpg in the folder.
@@ -113,7 +113,7 @@ cd $currentdir
 - In the Azure portal, refresh your resource group and verify that it contains the Azure Storage account just created. Open the storage account and in the pane on the left, select Storage browser. Then in Storage Browser, expand Blob containers and select the sampleforms container to verify that the files have been uploaded from your local 02-custom-document-intelligence/sample-forms folder.
 
 
-Train the model using Document Intelligence Studio
+Train the model using Document Intelligence Studio  
 Now you will train the model using the files uploaded to the storage account.
 
 - In your browser, navigate to the Document Intelligence Studio at https://documentintelligence.ai.azure.com/studio.
@@ -164,7 +164,7 @@ dotnet build
 dotnet run
 ```
 
-Clean up resources
+Clean up resources  
 
 - In the “search resources, services, and doc”, type and select Resource Groups
 
