@@ -20,7 +20,6 @@ Azure Portal
 ---
 ![image](https://github.com/user-attachments/assets/0b9f2056-cd28-429b-b7ea-06c5fe5f42d8)
 
-
 ### Actions
 ---
 Prepare to develop an app in Visual Studio Code
@@ -55,8 +54,9 @@ To use the Azure AI Document Intelligence service, you need a Azure AI Document 
 - Then select Review + create, and Create. Wait while Azure creates the Azure AI Document Intelligence resource.
 
 - When the deployment is complete, select Go to resource to view the resource's Overview page.
+  
 
-
+  
 Gather documents for training  
 You'll use the sample forms such as this one to train a test a model
 
